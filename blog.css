@@ -1,0 +1,19 @@
+ body,dl,dd,dt,p,h1,h2,h3,h4,h5,h6{ margin: 0;}
+        ul,ol{margin: 0; list-style: none; padding: 0;}
+        a{ text-decoration: none; color:inherit; }
+        *{ margin: 0; padding: 0; }
+        body{
+            font: bold 20px/28px "¿¬Ìå";
+            text-indent: 2rem;
+        }
+        h2{
+            background-color: deeppink;
+            font: bold 24px/50px "" ;
+            color: white;
+            box-shadow: deeppink 0px 0px 0px 1px, rgba(10, 10, 0, 0.5) 1px 1px 6px 1px;
+            text-shadow: rgb(34, 34, 34) 2px 2px 3px;
+            margin: 10px 0;
+        }
+        h2:hover{color: deepskyblue;}
+        p{text-indent: 2rem;}
+        span{color: rgb(44, 219, 135);}
