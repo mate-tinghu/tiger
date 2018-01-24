@@ -13,3 +13,6 @@ git commit -m 'create'
 
 
 ssh -keygen  -t rsa –C 'fang@qq.com'
+
+
+创建+切换分支：git checkout –b name
